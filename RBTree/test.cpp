@@ -6,7 +6,6 @@ using namespace std;
 
 #pragma warning(disable:4996)
 
-/*
 int main() {
 	RBTree* tr = new RBTree();
 
@@ -54,4 +53,4 @@ int main() {
 	printf("MAX = %d\n", tr->maximum(tr->root)->key);
 	printf("MIN = %d\n", tr->minimum(tr->root)->key);
 	return 0;
-}*/
+}
